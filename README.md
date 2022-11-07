@@ -9,3 +9,5 @@ Local development
 # git branch (zeigt Sie an), git checkout -b name-neue-branch...legt neue branch an. git checkout main wechselt wieder zu main.
 Branch löschen git branch -d name des branch
 for modified files git commit -am (add and message) 
+git log (zeigt commits an) 
+git reset dann commit code aus git log einsetzen.
