@@ -11,4 +11,4 @@ Local development
 Branch löschen git branch -d name des branch
 for modified files git commit -am (add and message) 
 git log (zeigt commits an) 
-git reset dann commit code aus git log einsetzen.
+git reset dann commit code aus git log einsetzen.  
